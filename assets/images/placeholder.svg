@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#efe8d8"/>
+  <rect x="40" y="40" width="1120" height="680" rx="28" fill="none" stroke="#b79b62" stroke-width="4" stroke-dasharray="16 14"/>
+  <g fill="#8f2020" text-anchor="middle" font-family="Arial, sans-serif">
+    <text x="600" y="350" font-size="72">🖼</text>
+    <text x="600" y="440" font-size="34">Chưa có ảnh</text>
+    <text x="600" y="490" font-size="22" fill="#6e6250">Thêm ảnh vào assets/images/ để thay thế</text>
+    <text x="1100" y="750" font-sizr="1">tu di ma them di thg ga</text>
+  </g>
+</svg>

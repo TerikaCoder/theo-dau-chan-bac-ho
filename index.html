@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <!-- hmm, cho nay la setup font tren api cua google(free btw), tua de web,...-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Theo dấu chân Bác Hồ</title>
+  <meta name="description" content="Theo dấu chân Bác Hồ — hành trình tìm hiểu cuộc đời, sự nghiệp và tư liệu lịch sử.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="loader"><div class="loader-mark">H</div><div class="loader-line"></div><span>ĐANG MỞ HÀNH TRÌNH...</span></div>
+  <div id="app">
+    <header class="topbar">
+      <button id="menuBtn" class="icon-btn" aria-label="Mở menu"><span></span><span></span><span></span></button>
+      <button class="brand-home" onclick="navigate('home')" aria-label="Về Trang chủ" title="Về Trang chủ">
+        <img src="assets/images/icon/icon.svg" alt="Theo dấu chân Bác Hồ"
+             onerror="this.style.display='none'; this.nextElementSibling.style.display='inline'">
+        <span class="brand-fallback">THEO DẤU CHÂN BÁC HỒ</span>
+      </button>
+      <nav id="topNav" class="top-nav"></nav>
+      <button id="themeTopBtn" class="theme-top" onclick="toggleTheme()" aria-label="Đổi giao diện">☾ <span>Chế độ</span></button>
+    </header>
+    <div id="backdrop" class="backdrop"></div>
+    <aside id="drawer" class="drawer">
+      <div class="drawer-head"><strong>DẤU CHÂN BÁC HỒ</strong><button id="closeBtn" class="icon-btn close">×</button></div>
+      <div id="drawerNav"></div>
+    </aside>
+    <main id="main"></main>
+    <footer><span>THEO DẤU CHÂN BÁC HỒ</span><span>Website tư liệu lịch sử</span></footer>
+  </div>
+  <div id="modal" class="modal"><div class="modal-box"><button class="modal-close" onclick="closeModal()">×</button><div id="modalContent"></div></div></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

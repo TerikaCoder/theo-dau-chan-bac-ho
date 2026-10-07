@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "file": "1.mp3",
+      "name": "At the speed of lights",
+      "author": "Dimrain47",
+      "requestBy": "Nguyen Nguyen Du"
+    },
+    {
+      "file": "2.mp3",
+      "name": "Idyllic",
+      "author": "Wisp X",
+      "requestBy": "Nguyen Nguyen Du"
+      }
+  ]
+}

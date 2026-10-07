@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "name": "Nguyen Nguyen Du",
+      "role": "Trưởng nhóm",
+      "description": "Thanh vien cua nhom 3",
+      "image": "assets/images/credits/truong-nhom.jpg",
+      "feeling": "''Toi la co-owner cua du an ve Bac Ho nay, va toi muon dem den su that cua Bac cho moi nguoi biet, de ho ko bi lua hay thao tung ve nhung cau chuyen xuyen tac lich su cua Bac Ho.''",
+      "tasks": [ "Main Coder"],
+      "social": [
+        {"platform": "facebook", "label": "Facebook", "url": "https://www.facebook.com/ImNotTerika"},
+        {"platform": "tiktok", "label": "Tik Tok", "url": "https://tiktok.com/@iamnotterika"}
+      ]
+    },
+     {
+      "name": "Nguyen Duy Hung",
+      "role": "Phó nhóm",
+      "description": "con ga cua nhom 3",
+      "image": "assets/images/credits/soon.png",
+      "feeling": "nah, ts too bad for tell the feeling",
+      "tasks": ["Nhom pho", "Sub Coder"],
+      "social": [
+        {"platform": "facebook", "label": "Facebook", "url": "https://www.facebook.com/ImNotTerika"},
+        {"platform": "tiktok", "label": "Tik Tok", "url": "https://tiktok.com/@iamnotterika"}
+      ]
+    }
+  ]
+}

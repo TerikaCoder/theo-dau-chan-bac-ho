@@ -1,0 +1,83 @@
+{
+  "title": "Sự nghiệp",
+  "intro": "Các mốc dưới đây được chọn từ biên niên tiểu sử để tạo một tuyến tham quan dễ đọc. Mỗi sự kiện có dữ kiện, bối cảnh và ý nghĩa được tách riêng.",
+  "events": [
+    {
+      "date": "05/06/1911",
+      "title": "Ra đi tìm đường cứu nước",
+      "story": "Nguyễn Tất Thành rời Bến Nhà Rồng, bắt đầu hành trình ra nước ngoài để tìm hiểu thế giới và tìm con đường giải phóng dân tộc.",
+      "meaning": "Đánh dấu bước mở đầu của hành trình hơn ba mươi năm hoạt động ở nước ngoài.",
+      "image": "assets/images/journey/1911/ben-nha-rong-1911.jpg"
+    },
+    {
+      "date": "1919",
+      "title": "Bản Yêu sách của nhân dân An Nam",
+      "story": "Tại Pháp, Nguyễn Ái Quốc cùng những người Việt Nam yêu nước gửi bản yêu sách tới Hội nghị Versailles.",
+      "meaning": "Một dấu mốc đáng chú ý trong hoạt động chính trị của Nguyễn Ái Quốc trên trường quốc tế.",
+      "image": "assets/images/journey/france/paris-nguyen-ai-quoc.jpg"
+    },
+    {
+      "date": "12/1920",
+      "title": "Tham gia sáng lập Đảng Cộng sản Pháp",
+      "story": "Tại Đại hội Tours, Nguyễn Ái Quốc tham gia quá trình thành lập Đảng Cộng sản Pháp.",
+      "meaning": "Gắn với bước chuyển trong hoạt động chính trị của Nguyễn Ái Quốc và việc lựa chọn con đường cách mạng vô sản.",
+      "image": "assets/images/journey/france/nguyen-ai-quoc-france.jpg"
+    },
+    {
+      "date": "03/02/1930",
+      "title": "Thành lập Đảng Cộng sản Việt Nam",
+      "story": "Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930 được tổ chức dưới sự chủ trì của Nguyễn Ái Quốc.",
+      "meaning": "Tạo một tổ chức chính trị thống nhất lãnh đạo phong trào cách mạng Việt Nam.",
+      "image": "assets/images/revolution/1930-1945/hoi-nghi-thanh-lap-dang.jpg"
+    },
+    {
+      "date": "28/01/1941",
+      "title": "Trở về Tổ quốc",
+      "story": "Nguyễn Ái Quốc trở về Việt Nam sau hơn 30 năm hoạt động ở nước ngoài và trực tiếp tham gia lãnh đạo phong trào cách mạng trong nước.",
+      "meaning": "Mở ra một giai đoạn mới, gắn hoạt động của Người trực tiếp với cách mạng Việt Nam.",
+      "image": "assets/images/revolution/pac-bo/bac-ho-pac-bo.jpg"
+    },
+    {
+      "date": "08/1945",
+      "title": "Cách mạng Tháng Tám",
+      "story": "Hồ Chí Minh cùng Trung ương Đảng lãnh đạo cách mạng giành chính quyền trong cả nước.",
+      "meaning": "Tạo bước ngoặt lớn, đưa chính quyền về tay nhân dân và mở ra một thời kỳ mới của lịch sử Việt Nam.",
+      "image": "assets/images/revolution/cach-mang-thang-tam/bac-ho-tan-trao.jpg"
+    },
+    {
+      "date": "02/09/1945",
+      "title": "Đọc Tuyên ngôn Độc lập",
+      "story": "Tại Quảng trường Ba Đình, Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa.",
+      "meaning": "Một trong những sự kiện có ý nghĩa đặc biệt của lịch sử Việt Nam hiện đại.",
+      "image": "assets/images/revolution/cach-mang-thang-tam/tuyen-ngon-doc-lap.jpg"
+    },
+    {
+      "date": "19/12/1946",
+      "title": "Lời kêu gọi Toàn quốc kháng chiến",
+      "story": "Hồ Chí Minh ra Lời kêu gọi Toàn quốc kháng chiến trong bối cảnh cuộc chiến tranh chống thực dân Pháp bước vào giai đoạn mới.",
+      "meaning": "Là một văn kiện lịch sử quan trọng, thể hiện lời hiệu triệu toàn dân tham gia kháng chiến.",
+      "image": "assets/images/resistance/1945-1950/bac-ho-khang-chien.jpg"
+    },
+    {
+      "date": "1954",
+      "title": "Chiến thắng Điện Biên Phủ",
+      "story": "Chiến thắng Điện Biên Phủ kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp của Việt Nam.",
+      "meaning": "Tạo bước chuyển lớn đối với cuộc đấu tranh và tình hình Đông Dương.",
+      "image": "assets/images/resistance/1950-1954/dien-bien-phu-1954.jpg"
+    },
+    {
+      "date": "1954–1969",
+      "title": "Những năm cuối đời",
+      "story": "Hồ Chí Minh tiếp tục tham gia lãnh đạo và hoạt động đối nội, đối ngoại trong bối cảnh đất nước bị chia cắt và chiến tranh tiếp diễn.",
+      "meaning": "Giai đoạn cuối đời gắn với nhiều hoạt động xây dựng miền Bắc và đấu tranh thống nhất đất nước.",
+      "image": "assets/images/hanoi/nha-san/nha-san-bac-ho.jpg"
+    },
+    {
+      "date": "02/09/1969",
+      "title": "Qua đời",
+      "story": "Chủ tịch Hồ Chí Minh qua đời tại Hà Nội ngày 2/9/1969.",
+      "meaning": "Khép lại cuộc đời hoạt động của một nhân vật trung tâm trong lịch sử Việt Nam thế kỷ XX.",
+      "image": "assets/images/people/bac-ho-cuoi-doi/bac-ho-lam-viec-1960s.jpg"
+    }
+  ]
+}

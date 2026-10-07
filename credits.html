@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Credits — Theo dấu chân Bác Hồ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/credits.css">
+</head>
+<body>
+  <header class="topbar credits-topbar">
+    <button class="icon-btn" onclick="history.length > 1 ? history.back() : location.href='index.html'" aria-label="Quay lại"><span></span><span></span><span></span></button>
+    <button class="brand-home" onclick="location.href='index.html'" aria-label="Về Trang chủ">
+      <img src="assets/images/icon/icon.svg" alt="Theo dấu chân Bác Hồ" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline'">
+      <span class="brand-fallback">THEO DẤU CHÂN BÁC HỒ</span>
+    </button>
+    <div class="credits-page-title">CREDITS</div>
+    <button id="themeButton" class="theme-top" aria-label="Đổi giao diện">☾ <span>Chế độ</span></button>
+  </header>
+
+  <main class="credits-main">
+    <section class="credits-hero">
+      <div class="kicker">NHÓM 3</div>
+      <h1>Những người tuyệt vời đã tạo nên trang web này</h1>
+      <p>Đây là nơi trưng bày tên tuổi các thành viên đã đóng góp cho dự án</p>
+    </section>
+
+    <section class="members-section">
+      <div id="membersTree" class="members-tree"></div>
+    </section>
+
+    <section class="music-section">
+      <div class="music-heading">
+        <div class="kicker">MUSIC PLAYER</div>
+        <h2>Nhạc nền của nhóm</h2>
+        <p>Nhạc được chọn ngẫu nhiên bởi đội ngũ phát triển web, đơn giản là <code>vì coder ngầu</code></p>
+      </div>
+
+      <div class="music-player" id="musicPlayer">
+        <div class="record-wheel" id="recordWheel" aria-hidden="true"><span>♪</span></div>
+        <div class="music-main">
+          <div class="song-line">
+            <div>
+              <strong id="songName">Chưa có bài nhạc</strong>
+              <span id="songAuthor">—</span>
+            </div>
+            <button id="nextSong" class="next-song" type="button" title="Đổi bài ngẫu nhiên">↻</button>
+          </div>
+          <div class="song-meta"><span id="songRequest">Request by —</span></div>
+          <div class="progress-row">
+            <span id="currentTime">0:00</span>
+            <input id="progress" type="range" min="0" max="100" value="0" step="0.1" aria-label="Tiến trình nhạc">
+            <span id="duration">0:00</span>
+          </div>
+          <div class="player-controls">
+            <button id="playButton" class="play-button" type="button">▶ Phát</button>
+            <label class="volume"><span>🔊</span><input id="volume" type="range" min="0" max="1" step="0.01" value="0.8" aria-label="Âm lượng"></label>
+          </div>
+        </div>
+      </div>
+      <audio id="audio" preload="metadata"></audio>
+    </section>
+
+    <div class="credits-back"><a href="index.html">← Quay về Theo dấu chân Bác Hồ</a></div>
+  </main>
+
+  <div id="memberModal" class="member-modal" aria-hidden="true">
+    <div class="member-modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalName">
+      <button id="closeModal" class="modal-close" type="button" aria-label="Đóng">×</button>
+      <div class="modal-photo"><img id="modalImage" src="assets/images/placeholder.svg" alt=""></div>
+      <div class="modal-content">
+        <div id="modalRole" class="modal-role">Thành viên</div>
+        <h2 id="modalName">—</h2>
+        <div class="modal-section"><h3>Cảm nghĩ</h3><p id="modalFeeling"></p></div>
+        <div class="modal-section"><h3>Social</h3><div id="modalSocial" class="socials"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="songToast" class="song-toast" aria-live="polite">
+    <div class="toast-kicker">♪ ĐANG PHÁT</div>
+    <strong id="toastSong">—</strong>
+    <span>By: <b id="toastAuthor">—</b></span>
+    <span>Requested by: <b id="toastRequest">—</b></span>
+  </div>
+
+  <script src="js/credits.js"></script>
+</body>
+</html>

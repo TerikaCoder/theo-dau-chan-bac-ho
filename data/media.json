@@ -1,0 +1,210 @@
+{
+  "images": [
+    {
+      "category": "Quê hương & tuổi thơ",
+      "title": "Làng Sen — quê hương thời niên thiếu",
+      "year": "1890s",
+      "src": "assets/images/gallery/lang-sen.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Quê hương & tuổi thơ",
+      "title": "Ngôi nhà cụ Phó bảng Nguyễn Sinh Sắc",
+      "year": "1890s",
+      "src": "assets/images/gallery/nha-noi.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Quê hương & tuổi thơ",
+      "title": "Kim Liên — ký ức quê hương",
+      "year": "Thế kỷ XX",
+      "src": "assets/images/gallery/kim-lien.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Hành trình",
+      "title": "Bến Nhà Rồng",
+      "year": "1911",
+      "src": "assets/images/gallery/ben-nha-rong.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Hành trình",
+      "title": "Những năm tháng hoạt động ở nước ngoài",
+      "year": "1911–1929",
+      "src": "assets/images/gallery/hanh-trinh.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Hoạt động cách mạng",
+      "title": "Nguyễn Ái Quốc trong những năm hoạt động cách mạng",
+      "year": "1920s",
+      "src": "assets/images/gallery/nguyen-ai-quoc.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Hoạt động cách mạng",
+      "title": "Hội nghị thành lập Đảng",
+      "year": "1930",
+      "src": "assets/images/gallery/1930.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Cách mạng Tháng Tám",
+      "title": "Tuyên ngôn Độc lập",
+      "year": "1945",
+      "src": "assets/images/gallery/tuyen-ngon.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Cách mạng Tháng Tám",
+      "title": "Quảng trường Ba Đình",
+      "year": "1945",
+      "src": "assets/images/gallery/ba-dinh.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Tân Trào",
+      "title": "Cây đa Tân Trào",
+      "year": "1945",
+      "src": "assets/images/gallery/tan-trao.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "Tân Trào",
+      "title": "Khu di tích Tân Trào",
+      "year": "1945",
+      "src": "assets/images/gallery/tan-trao-khu.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "1954–1969",
+      "title": "Những năm tháng sau 1954",
+      "year": "1954–1969",
+      "src": "assets/images/gallery/1954.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "1954–1969",
+      "title": "Chủ tịch Hồ Chí Minh với thiếu nhi",
+      "year": "1950s–1960s",
+      "src": "assets/images/gallery/thieu-nhi.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "category": "1954–1969",
+      "title": "Những hình ảnh cuối đời",
+      "year": "1960s",
+      "src": "assets/images/gallery/cuoi-doi.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "type": "image",
+      "category": "Quê hương & tuổi thơ",
+      "title": "Kim Liên — quê hương",
+      "year": "1890s",
+      "src": "assets/images/gallery/kim-lien-2.jpg",
+      "source": "Tư liệu bổ sung"
+    },
+    {
+      "type": "image",
+      "category": "Quê hương & tuổi thơ",
+      "title": "Nam Đàn — tư liệu quê hương",
+      "year": "Thế kỷ XX",
+      "src": "assets/images/gallery/nam-dan.jpg",
+      "source": "Tư liệu bổ sung"
+    },
+    {
+      "type": "image",
+      "category": "Hành trình",
+      "title": "Nguyễn Ái Quốc tại Pháp",
+      "year": "1919",
+      "src": "assets/images/gallery/paris-1919.jpg",
+      "source": "Tư liệu hành trình"
+    },
+    {
+      "type": "image",
+      "category": "Hành trình",
+      "title": "Nguyễn Ái Quốc tại Liên Xô",
+      "year": "1923",
+      "src": "assets/images/gallery/moscow-1923.jpg",
+      "source": "Tư liệu hành trình"
+    },
+    {
+      "type": "image",
+      "category": "Hoạt động cách mạng",
+      "title": "Nguyễn Ái Quốc — hoạt động cách mạng",
+      "year": "1920s–1930s",
+      "src": "assets/images/gallery/hoat-dong-cach-mang.jpg",
+      "source": "Tư liệu cách mạng"
+    },
+    {
+      "type": "image",
+      "category": "Hoạt động cách mạng",
+      "title": "Hội nghị hợp nhất các tổ chức cộng sản",
+      "year": "1930",
+      "src": "assets/images/gallery/hoi-nghi-1930.jpg",
+      "source": "Tư liệu lịch sử"
+    },
+    {
+      "type": "image",
+      "category": "Tân Trào",
+      "title": "Đình Tân Trào",
+      "year": "1945",
+      "src": "assets/images/gallery/dinh-tan-trao.jpg",
+      "source": "Tư liệu Tân Trào"
+    },
+    {
+      "type": "image",
+      "category": "1954–1969",
+      "title": "Hồ Chí Minh trong giai đoạn 1954–1969",
+      "year": "1954–1969",
+      "src": "assets/images/gallery/1954-1969.jpg",
+      "source": "Tư liệu lịch sử"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Hồ Chí Minh – Chân dung một con người",
+      "year": "Kiểm tra năm gốc",
+      "youtube": "",
+      "source": "hochiminh.vn",
+      "sourceUrl": "https://hochiminh.vn/tu-lieu-video"
+    },
+    {
+      "title": "Tên người là Hồ Chí Minh",
+      "year": "Kiểm tra năm gốc",
+      "youtube": "",
+      "source": "hochiminh.vn",
+      "sourceUrl": "https://hochiminh.vn/tu-lieu-video"
+    },
+    {
+      "title": "Việt Nam Hồ Chí Minh giữ trọn một con đường",
+      "year": "Kiểm tra năm gốc",
+      "youtube": "",
+      "source": "hochiminh.vn",
+      "sourceUrl": "https://hochiminh.vn/tu-lieu-video"
+    },
+    {
+      "title": "Hồ Chí Minh thắp sáng niềm tin",
+      "year": "Kiểm tra năm gốc",
+      "youtube": "",
+      "source": "hochiminh.vn",
+      "sourceUrl": "https://hochiminh.vn/tu-lieu-video"
+    },
+    {
+      "title": "Hồ Chí Minh với thiếu nhi",
+      "year": "Kiểm tra năm gốc",
+      "youtube": "",
+      "source": "hochiminh.vn",
+      "sourceUrl": "https://hochiminh.vn/tu-lieu-video"
+    },
+    {
+      "title": "Tư liệu phim về Chủ tịch Hồ Chí Minh",
+      "year": "Kiểm tra năm gốc",
+      "youtube": "",
+      "source": "hochiminh.vn",
+      "sourceUrl": "https://hochiminh.vn/tu-lieu-video"
+    }
+  ]
+}
